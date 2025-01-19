@@ -15,7 +15,7 @@ function Login() {
     setError(''); // Clear previous errors
 
     try {
-      const response = await fetch('http://localhost:4000/api/v1/users/login', {
+      const response = await fetch('https://email-generator.up.railway.app/api/v1/users/login', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

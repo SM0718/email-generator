@@ -71,7 +71,7 @@ function EditTemplate() {
   const handleSave = async () => {
     console.log('Updated HTML:', content);
     try {
-      const response = await fetch('http://localhost:4000/api/v1/templates/add-template', {
+      const response = await fetch('https://email-generator.up.railway.app/api/v1/templates/add-template', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json', // Specify the content type

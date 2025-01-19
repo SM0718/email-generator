@@ -14,7 +14,7 @@ function CreateAccount() {
     setError(''); // Clear previous errors
 
     try {
-      const response = await fetch('http://localhost:4000/api/v1/users/register', {
+      const response = await fetch('https://email-generator.up.railway.app/api/v1/users/register', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

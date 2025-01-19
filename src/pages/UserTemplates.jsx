@@ -8,7 +8,7 @@ function UserTemplates() {
   useEffect(() => {
     const getUserTemplates = async () => {
       try {
-        const response = await fetch('http://localhost:4000/api/v1/templates/get-user-templates', {
+        const response = await fetch('https://email-generator.up.railway.app/api/v1/templates/get-user-templates', {
           method: 'GET',
           headers: {
             Authorization: `Bearer ${token}`,

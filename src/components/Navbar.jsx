@@ -31,7 +31,7 @@ function Navbar() {
 
   const handleLogout = async () => {
     try {
-      const response = await fetch('http://localhost:4000/api/v1/users/logout', {
+      const response = await fetch('https://email-generator.up.railway.app/api/v1/users/logout', {
         method: 'POST',
         credentials: 'include',
         headers: {
