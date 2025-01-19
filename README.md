@@ -109,8 +109,7 @@ Contributions are welcome! To contribute:
 For any inquiries or support, contact:
 - **Developer**: Sagnik Majumder
 - **Email**: sagnikofficial734@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sagnik-majumder-bbbb96200/))
-
+- **LinkedIn**: https://www.linkedin.com/in/sagnik-majumder-bbbb96200/
 ---
 Thank you for using the Email Builder Web Application!
 
