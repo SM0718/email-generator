@@ -104,14 +104,12 @@ Contributions are welcome! To contribute:
 3. Commit your changes and push the branch.
 4. Submit a pull request with a detailed description of your changes.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 For any inquiries or support, contact:
 - **Developer**: Sagnik Majumder
-- **Email**: [your-email@example.com]
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+- **Email**: sagnikofficial734@gmail.com
+- **LinkedIn**: [Your LinkedIn Profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sagnik-majumder-bbbb96200/))
 
 ---
 Thank you for using the Email Builder Web Application!
